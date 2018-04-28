@@ -5,7 +5,6 @@ A small python program that identifies your hand gesture using contours and conv
 
 For Python3
 ===
-
 .. code-block:: python
 
   pip3 install python3-xlib
